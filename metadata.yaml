@@ -1,0 +1,37 @@
+_repo: The-Curtiss-Aviation-Book_66511
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Curtiss, Glenn
+    gutenberg_agent_id: '53845'
+    url: http://www.gutenberg.org/2009/agents/53845
+  - agent_name: Lettow-Vorbeck, General von (Paul Emil)
+    aliases:
+    - Von Lettow-Vorbeck, General (Paul Emil)
+    - Lettow-Vorbeck, Paul Emil von
+    - Lettow-Vorbeck, Paul von
+    birthdate: 1870
+    deathdate: 1964
+    gutenberg_agent_id: '46537'
+    url: http://www.gutenberg.org/2009/agents/46537
+  - agent_name: Post, Augustus
+    gutenberg_agent_id: '53846'
+    url: http://www.gutenberg.org/2009/agents/53846
+  - agent_name: Robinson, Hugh
+    gutenberg_agent_id: '53848'
+    url: http://www.gutenberg.org/2009/agents/53848
+  - agent_name: Ellyson, Theodore
+    gutenberg_agent_id: '53847'
+    url: http://www.gutenberg.org/2009/agents/53847
+description: ''
+gutenberg_issued: '2021-10-10'
+identifiers:
+  gutenberg: '66511'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Curtiss Aviation Book
+url: http://www.gutenberg.org/ebooks/66511
