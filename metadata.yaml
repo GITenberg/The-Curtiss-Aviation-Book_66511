@@ -1,5 +1,8 @@
 _repo: The-Curtiss-Aviation-Book_66511
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66511-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Curtiss, Glenn
@@ -24,6 +27,8 @@ creator:
     gutenberg_agent_id: '53847'
     url: http://www.gutenberg.org/2009/agents/53847
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66511#The-Curtiss-Aviation-Book
 gutenberg_issued: '2021-10-10'
 identifiers:
   gutenberg: '66511'
